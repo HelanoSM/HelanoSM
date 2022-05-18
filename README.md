@@ -1,9 +1,7 @@
-### Olá, é um prazer conhecê-los(as) 👋
-### Hi there, nice to meet you all! 👋
+### Olá, é um prazer conhecê-los(as) 👋 // Hi there, nice to meet you all! 👋
 
-### Junior Frontend developer
-### Em transição de carreira
-### Estudante em Sistemas e Mídias Digitais / Universidade Federal do Ceará
+### Junior Frontend developer // Em transição de carreira
+### Estudante em Sistemas e Mídias Digitais na Universidade Federal do Ceará
 
 
  <div>
