@@ -1,4 +1,10 @@
+### Olá, é um prazer conhecê-los(as) 👋
 ### Hi there, nice to meet you all! 👋
+
+### Junior Frontend developer
+### Em transição de carreira
+### Estudante em Sistemas e Mídias Digitais / Universidade Federal do Ceará
+
 
  <div>
   <a href="https://github.com/HelanoSM">
@@ -13,6 +19,7 @@
  
  <br>
  
+ ### Entre em contato comigo:
  ### Contact me:
  
 <div> 
